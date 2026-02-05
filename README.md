@@ -1,6 +1,6 @@
 Hi, I’m @adgodoyo.
 
-I am an AI researcher and builder focused on translating advanced machine learning into real-world impact. I am currently pursuing an MSc in Artificial Intelligence at Imperial College London, developing expertise in Graph Deep Learning, Reinforcement Learning, and robotics.
+I am an AI researcher and builder focused on translating advanced machine learning into real-world impact. I am currently pursuing an MSc in Artificial Intelligence Applications at Imperial College London, developing expertise in Graph Deep Learning, Reinforcement Learning, and robotics.
 
 My work sits at the intersection of artificial intelligence, public policy, and entrepreneurship. I design data-driven systems that expand access to finance and energy, improve education, and enable better decision-making at scale. In Colombia, I have led high-impact AI initiatives ranging from large-scale credit scoring for rural populations to spatio-temporal anomaly detection in national energy systems.
 
